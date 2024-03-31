@@ -1,4 +1,17 @@
-## Analyzing Soil Nutrient Levels with Intel AI Tools
+## Problem Statement
+  Design an intelligent farming system that harmoniously integrates IoT and AI technologies. Your mission is to develop a solution that monitors soil moisture, temperature, and crop health through IoT sensors. Implement AI algorithms for predicting optimal time for planting crops, and detecting potential diseases. With a focus on resource optimization and informed decision-making, empower farmers to elevate crop yield and enhance overall crop management practices.
+## Solution
+**Potential Impact of a Successful Proposal**
+
+Revolutionary smart farming solution ,Guides farmers from seed to harvest for **maximum productivity**.
+**Multi-language interface**for worldwide use Ensures farmers globally can benefit from advanced features
+Adjusts watering levels in real-time based on conditions ,Enhances crop care by providing **timely user alerts**.
+Integrated AI system for **swift diagnosis** and **curing of plant ailments** ,Assists farmers in maintaining optimal plant health.
+Unique feature providing **profit forecasts** before cultivation ,Estimates final product quantities, empowering informed decision-making.
+Transforms traditional farming into a modern, data-driven approach ,A comprehensive guide for **efficiency and profitability** throughout the farming cycle.
+
+## Intel OneAPI Tools
+1. **Analyzing Soil Nutrient Levels with Intel AI Tools**
 
 This project utilizes Intel AI Tools (formerly known as Intel AI Analytics Tool) to analyze data collected from soil sensors and estimate NPK levels. NPK represents the essential nutrients Nitrogen, Phosphorus, and Potassium, crucial for plant growth.
 
@@ -20,8 +33,8 @@ This project utilizes Intel AI Tools (formerly known as Intel AI Analytics Tool)
 
 Overall, Intel AI Tools plays a vital role in our project by facilitating the development and deployment of a machine learning model for NPK level estimation in soil, leading to more informed agricultural practices.
 
-## Visualizing Marketing Prices with Intel AI Tools
-
+2. **Visualizing Marketing Prices with Intel AI Tools**
+   
 This project leverages Intel AI Tools (formerly AI Analytics Toolkit) to analyze and graphically represent current marketing prices within our application. While AI Tools doesn't directly create visualizations, it empowers us to prepare and analyze data for clear graphical representation using other tools.
 
 ***Why AI Tools for Price Visualization?***
@@ -48,3 +61,15 @@ By effectively visualizing marketing prices, we aim to:
 ***Actionable Insights:*** Identifying trends or outliers in the data can lead to actionable insights for optimizing marketing strategies. 
 
 Overall, Intel AI Tools plays a crucial role in preparing and analyzing our marketing price data, allowing us to create informative graphical representations for better decision-making and communication.
+
+## How AgroMate Benefits Farmers ?
+ 1.Precision Agriculture          
+ 2.Optimized Seed Selection        
+ 3.Watering Efficiency              
+ 4.Disease Prevention and Management          
+ 5.Farming Calendar and Task Management           
+ 6.Profit Forecasting and Quantity Estimation               
+ 7.Global Accessibility                  
+ 8.Timely Notifications                   
+ 9.Ease of Use              
+10.Data-Driven Decision-Making                
